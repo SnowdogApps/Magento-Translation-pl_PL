@@ -61,6 +61,7 @@
 "Entity is not initialized","Jednostka nie została zainicjowana"
 "Entity object is undefined","Obiekt jednostki jest niezdefiniowany"
 "Failed to load node %s from config","Nie udało się załadować węzła %s zgodnie z konfiguracją."
+"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols","For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols"
 "Form Element with the same attribute","Element formularza z taką samą cechą"
 "Form Fieldset with the same code","Pole formularza z takim samym kodem"
 "Form Type with the same code","Typ formularza z takim samym kodem"
