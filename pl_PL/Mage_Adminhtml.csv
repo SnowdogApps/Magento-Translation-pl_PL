@@ -1187,7 +1187,7 @@
 "to","do"
 "website(%s) scope","zakres witryny (%s)"
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%s"">configuration</a>.","{{base_url}} nie jest zalecany do użycia w środowisku produkcyjnym do deklarowania URL bazowego / Bezpiecznego URL bazowego. Zaleca się zmianę tych ustawień w <a href=""%s"">konfiguracji</a> Magento."
-"---- dodano 01.12.2012 ----",""---- dodano 01.12.2012 ----""
+"---- dodano 01.12.2012 ----","---- dodano 01.12.2012 ----"
 "Base Image","Obrazek podstawowy"
 "Small Image","Obrazek mniejszy"
 "I.e. redirect from http://example.com/store/ to http://www.example.com/store/","np. przekierowanie z http://example.com/store do http://www.example.com/store/"
