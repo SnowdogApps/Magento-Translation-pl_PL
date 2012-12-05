@@ -1,4 +1,4 @@
-<!--@subject {{var store.getFrontendName()}}: Credit Memo # {{var creditmemo.increment_id}} update @-->
+<!--@subject {{var store.getFrontendName()}}: Aktualizacja Noty Korygującej nr {{var creditmemo.increment_id}} @-->
 <!--@vars
 {"store url=\"\"":"Store Url",
 "skin url=\"images/logo_email.gif\" _area='frontend'":"Email Logo Image",
@@ -26,22 +26,20 @@ body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif;
             <!-- [ middle starts here] -->
             <tr>
                 <td valign="top">
-                    <h1 style="font-size:22px; font-weight:normal; line-height:22px; margin:0 0 11px 0;">Dear {{htmlescape var=$order.getCustomerName()}},</h1>
+                    <h1 style="font-size:22px; font-weight:normal; line-height:22px; margin:0 0 11px 0;">Witaj {{htmlescape var=$order.getCustomerName()}}!</h1>
                     <p style="font-size:12px; line-height:16px; margin:0 0 10px 0;">
-                        Your order # {{var order.increment_id}} has been <br/>
+                        Stan Twojego Zamówienia nr {{var order.increment_id}} to <br/>
                         <strong>{{var order.getStatusLabel()}}</strong>.
                     </p>
-                    <p style="font-size:12px; line-height:16px; margin:0 0 10px 0;">You can check the status of your order by <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">logging into your account</a>.</p>
+                    <p style="font-size:12px; line-height:16px; margin:0 0 10px 0;">Możesz sprawdzić status po <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">zalogowaniu do swojego konta</a>.</p>
                     <p style="font-size:12px; line-height:16px; margin:0 0 10px 0;">{{var comment}}</p>
                     <p style="font-size:12px; line-height:16px; margin:0;">
-                        If you have any questions, please feel free to contact us at
-                        <a href="mailto:{{config path='trans_email/ident_support/email'}}" style="color:#1E7EC8;">{{config path='trans_email/ident_support/email'}}</a>
-                        or by phone at {{config path='general/store_information/phone'}}.
+                        Jeżeli masz jakiekolwiek pytania dotyczące Twojego zamówienia lub innej kwestii związanej ze sklepem, wyślij nam wiadomość: <a href="mailto:{{config path='trans_email/ident_support/email'}}" style="color:#1E7EC8;">{{config path='trans_email/ident_support/email'}}</a> lub skontaktuj się telefonicznie <span class="nobr">{{config path='general/store_information/phone'}}</span>.
                     </p>
                 </td>
             </tr>
             <tr>
-                <td bgcolor="#EAEAEA" align="center" style="background:#EAEAEA; text-align:center;"><center><p style="font-size:12px; margin:0;">Thank you again, <strong>{{var store.getFrontendName()}}</strong></p></center></td>
+                <td bgcolor="#EAEAEA" align="center" style="background:#EAEAEA; text-align:center;"><center><p style="font-size:12px; margin:0;">Dziękujemy, <strong>{{var store.getFrontendName()}}</strong></p></center></td>
             </tr>
         </table>
     </td>
