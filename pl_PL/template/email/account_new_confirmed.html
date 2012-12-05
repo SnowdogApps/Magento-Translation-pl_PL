@@ -25,7 +25,7 @@ body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif;
                     <!-- [ middle starts here] -->
                     <tr>
                         <td valign="top">
-                            <h1 style="font-size:22px; font-weight:normal; line-height:22px; margin:0 0 11px 0;"">Dear {{htmlescape var=$customer.name}},</h1>
+                            <h1 style="font-size:22px; font-weight:normal; line-height:22px; margin:0 0 11px 0;"">Witaj {{htmlescape var=$customer.name}}!</h1>
                             <p style="font-size:12px; line-height:16px; margin:0 0 16px 0;">Witamy w {{var store.getFrontendName()}}. W celu zalogowania się w sklepie, po prostu użyj linku <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">Zaloguj</a> lub <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">Moje konto</a> na górze strony, następnie wpisz swój adres e-mail oraz hasło.</p>
  <p style="font-size:12px; line-height:16px; margin:0 0 8px 0;">Po zalogowaniu do swojego konta, możesz:</p>
                             <ul style="font-size:12px; line-height:16px; margin:0 0 16px 0; padding:0;">
