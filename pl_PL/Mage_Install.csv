@@ -60,7 +60,7 @@
 "In other cases you will need to make Magento files writeable for the user that the web server process is running under.","W innym przypadku musisz nadać uprawnienia do zapisu plikom Magento dla użytkownika, z którego uruchomiony jest serwer www."
 "Installation","Instalacja"
 "Installation Guide","Przewodnik instalacji"
-"Installer does not exist for %s database type","Instalator ni istnieje dla bazy danych typu %s"
+"Installer does not exist for %s database type","Nie istnieje instalator dla bazy danych typu %s"
 "Last Name","Nazwisko"
 "License Agreement","Umowa licencyjna"
 "Locale","Kod języka"
