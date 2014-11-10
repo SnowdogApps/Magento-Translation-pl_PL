@@ -3,6 +3,7 @@
 "Enable External Cache","Włącz zewnętrzny mechanizm cache"
 "External Cache Control","Kontrola zewnętrznego cache"
 "External Full Page Cache Settings","Ustawienia zewnętrznej pamięci cache stron"
+"External Page Cache","Zewnętrzny cache stron"
 "External full page cache.","Zewnętrza pamięć cache stron."
 "Failed to load external cache control","Nie udało się załadować zewnętrznej kontroli cache"
 "Flush External Page Cache","Opróżnij zewnętrzny cache stron"
