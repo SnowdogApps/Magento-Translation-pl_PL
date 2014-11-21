@@ -1,8 +1,8 @@
 {
    "name": "snowdog-apps/magento-translation-pl_pl",
    "type": "magento-module",
-   "description": "Polish Translation package, temporary for Magento Localized",
-   "homepage": "https://github.com/integer-net/Polish_Language_Pack_pl_PL.git",
+   "description": "Polish Translation package",
+   "homepage": "https://github.com/SnowdogApps/Magento-Translation-pl_PL",
    "require": {
       "magento-hackathon/magento-composer-installer": "*"
    }
