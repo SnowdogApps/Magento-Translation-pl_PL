@@ -11,7 +11,7 @@
 "History Cleanup Every","Czyść historię co"
 "Hourly","Co godzinę"
 "Invalid callback: %s::%s does not exist","Błędne odwołanie: %s::%s nie istnieje"
-"Invalid model/method definition, expecting ""model/class::method"".","Nieprawidłowa definicja modelu/metody, oczekiwane "model/class::method"."
+"Invalid model/method definition, expecting ""model/class::method"".","Nieprawidłowa definicja modelu/metody, oczekiwane ""model/class::method""."
 "Minute Intervals","Interwał minutowy"
 "Missed if Not Run Within","Opuść jeśli nie zostanie uruchomine w ciągu"
 "Monthly","Co miesiąc"

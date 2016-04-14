@@ -109,7 +109,7 @@
 "Rate 3 Ship To Applicable Countries","Stawka 3 wyślij do dopuszczonych krajów"
 "Rate 3 Ship to Specific Countries","Stawka 3 wyślij do określonych krajów"
 "Rate 3 Title","Stawka 3 tytuł"
-"Required for live Google Checkout transactions. Make sure that this option corresponds to Use Secure URLs in Frontend (""Web"" > ""Secure"").","Wymagane dla transakcji Google Checkout w produkcji. Upewnij się, że ta opcja odpowiada wykorzystaniu Bezpiecznych URL ("Sieć" > "Bezpieczeństwo")"
+"Required for live Google Checkout transactions. Make sure that this option corresponds to Use Secure URLs in Frontend (""Web"" > ""Secure"").","Wymagane dla transakcji Google Checkout w produkcji. Upewnij się, że ta opcja odpowiada wykorzystaniu Bezpiecznych URL (""Sieć"" > ""Bezpieczeństwo"")"
 "Residential","Rezydencyjny"
 "Sandbox","Środowisko testowe"
 "Secure Callback URL","Zabezpieczony URL zwrotny"
