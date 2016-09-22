@@ -48,7 +48,7 @@
 "Nickname","Pseudonim"
 "Nickname can\'t be empty","Pole pseudonim nie może być puste"
 "Not Approved","Odrzucona"
-"Only registered users can write reviews. Please, <a href=""%s"">log in</a> or <a href=""%s"">register</a>","Tylko zarejestrowani kiienci mogą pisać opinie. Prosimy <a href=""%s"">zalogować się</a> lub <a href=""%s"">zarejestrować</a>"
+"Only registered users can write reviews. Please, <a href=""%s"">log in</a> or <a href=""%s"">register</a>","Tylko zarejestrowani kiienci mogą pisać opinie. Proszę <a href=""%s"">zalogować się</a> lub <a href=""%s"">zarejestrować</a>"
 "Pending","Oczekuje"
 "Pending Reviews","Oczekujące recenzje"
 "Pending Reviews of Customer `%s`","Oczekujące opinie użytkownika '%s"
