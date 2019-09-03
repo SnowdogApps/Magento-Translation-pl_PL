@@ -395,7 +395,7 @@
 "The title that goes before name (Mr., Mrs., etc.)","Tytuł pojawiający się przed imieniem (Mr., Mrs., itp.)"
 "There are no items in customer's wishlist at the moment","Nie ma produktów w schowku klienta"
 "There are no items in customer\'s shopping cart at the moment","W chwili obecnej klient nie posiada żadnych przedmiotów w koszyku"
-"There is already an account with this email address. If you are sure that it is your email address, <a href=""%s"">click here</a> to get your password and access your account.","Istnieje już konto z takim adresem e-mail. Jeślimasz pewność, że to twój adres, <a href=""%s"">kliknij tutaj</a>, aby zresetować hasło i odzyskać dostęp do konta."
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%s"">click here</a> to get your password and access your account.","Istnieje już konto z takim adresem e-mail. Jeśli masz pewność, że to twój adres, <a href=""%s"">kliknij tutaj</a>, aby zresetować hasło i odzyskać dostęp do konta."
 "There was an error validating the VAT ID.","Wystąpił błąd podczas sprawdzania poprawności numeru VAT."
 "There was an error validating the VAT ID. The customer would belong to Customer Group %s.","Wystąpił błąd podczas sprawdzania poprawności numeru VAT. Klient zostanie przydzielony do grupy klientów %s."
 "This account is not confirmed.","To konto nie zostało potwierdzone."
